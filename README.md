@@ -59,7 +59,7 @@ This system provides real-time monitoring of industrial assets using deep learni
 │   ├── test_inference.py         # Inference tests
 │   └── test_api.py               # API tests
 ├── config/                        # Configuration files
-│   ���── model_config.yaml         # Model hyperparameters
+│   ├── model_config.yaml         # Model hyperparameters
 │   ├── sensor_config.yaml        # Sensor configuration
 │   └── deployment_config.yaml    # Deployment settings
 ├── logs/                          # Application logs
